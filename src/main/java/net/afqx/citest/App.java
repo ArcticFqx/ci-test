@@ -1,4 +1,4 @@
-package net.afqx.mvntest;
+package net.afqx.citest;
 
 /**
  * Hello world!

@@ -1,10 +1,9 @@
-package net.afqx.mvntest;
-
+package net.afqx.citest;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.mockito.Mockito.*;
+//import static org.mockito.Mockito.*;
 
 /**
  * Unit test for simple App.

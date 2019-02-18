@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>net.afqx.mvntest</groupId>
-    <artifactId>mvntest</artifactId>
+    <groupId>net.afqx.citest</groupId>
+    <artifactId>citest</artifactId>
     <version>dev</version>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
